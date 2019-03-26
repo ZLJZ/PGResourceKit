@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PGResourceKit_Example' do
+  pod 'PGResourceKit', :path => '../'
+
+  target 'PGResourceKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
