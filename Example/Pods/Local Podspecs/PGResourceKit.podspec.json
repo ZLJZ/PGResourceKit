@@ -1,0 +1,27 @@
+{
+  "name": "PGResourceKit",
+  "version": "0.1.1",
+  "summary": "A short description of PGResourceKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ZLJZ/PGResourceKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Cicada": "wuxl@orbyun.com"
+  },
+  "source": {
+    "git": "https://github.com/ZLJZ/PGResourceKit.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PGResourceKit/Classes/**/*",
+  "resource_bundles": {
+    "PGResourceKit": [
+      "PGResourceKit/Assets/*"
+    ]
+  }
+}

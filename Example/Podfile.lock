@@ -1,0 +1,16 @@
+PODS:
+  - PGResourceKit (0.1.1)
+
+DEPENDENCIES:
+  - PGResourceKit (from `../`)
+
+EXTERNAL SOURCES:
+  PGResourceKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PGResourceKit: 34d4ea6469e330e3d3f8c5334cd2e10d8c97d9c0
+
+PODFILE CHECKSUM: c516a828e1a175ca6d9195b27207a01f5f608b67
+
+COCOAPODS: 1.5.0

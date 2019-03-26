@@ -1,0 +1,6 @@
+framework module Pods_PGResourceKit_Tests {
+  umbrella header "Pods-PGResourceKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

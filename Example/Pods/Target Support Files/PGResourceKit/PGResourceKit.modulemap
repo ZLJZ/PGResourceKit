@@ -1,0 +1,6 @@
+framework module PGResourceKit {
+  umbrella header "PGResourceKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
